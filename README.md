@@ -1,6 +1,6 @@
 # zuul-game
 
-This is an assignment that I completed for my SYSC 2004 (Java) course at Carleton University. We were provided a very bare bones "skeleton" of the game that our instructor had produced which we then took and improved upon by adding our own methods, classes, and functionalities.
+This is an assignment that I completed using Java for my SYSC 2004 course at Carleton University. We were provided a very bare bones "skeleton" of the game that our instructor had produced which we then took and improved upon by adding our own methods, classes, and functionalities.
 
 The game is a basic text-based adventure game where the player can travel through different locations at Carleton. When travelling through a room, player's can pick up items unique to the room. In order to pick up an item, the player has to ensure that they are not hungry. The player must find a cookie and eat it before they can collect the different items scatted across all of the rooms.
 
